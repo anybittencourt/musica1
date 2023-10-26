@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: #341948;
+}
+img{
+    width: 18vw;
+}
+.navbar{
+    background-color: #341948;
+}
+.form-control{
+    background-color: #9388A2;
+}
+.btn{
+    background-color: #9388A2;
+}
+.carrossel{
+    width: 65vw;
+}
+.bi{
+    color: #9388A2;
+}
